@@ -1,0 +1,22 @@
+{
+	"id" :"0001",
+	"grantor": "Super duper company",
+	"grantee": "Fellowship of the ring",
+	"account" : "NL23RABO123456789",
+	"direction" : "GIVEN",
+	"authorizations": ["DEBITCARD","VIEW","PAYMENT"],
+	"cards" : [
+		{
+			"id": "1111",
+			"type" : "DEBITCARD"
+		},
+		{
+			"id": "2222",
+			"type" : "DEBITCARD"
+		},
+		{
+			"id": "3333",
+			"type" : "CREDITCARD"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"id": "1111",
+	"status": "ACTIVE",
+	"cardNumber": 1234,
+	"sequenceNumber": 5,
+	"cardHolder": "Frodo Basggins",
+	"atmLimit": {
+		"limit": 3000,
+		"periodUnit": "PERWEEK"
+	},
+	"posLimit": {
+		"limit": 50,
+		"periodUnit": "PERMONTH"
+	},
+	"contactless" : true
+}

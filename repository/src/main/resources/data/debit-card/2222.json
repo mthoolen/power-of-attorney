@@ -1,0 +1,16 @@
+{
+	"id": "2222",
+	"status": "ACTIVE",
+	"cardNumber": 6527,
+	"sequenceNumber": 1,
+	"cardHolder": "Aragorn",
+	"atmLimit": {
+		"limit": 100,
+		"periodUnit": "PERDAY"
+	},
+	"posLimit": {
+		"limit": 10000,
+		"periodUnit": "PERMONTH"
+	},
+	"contactless" : true
+}
